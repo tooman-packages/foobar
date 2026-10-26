@@ -1,0 +1,10 @@
+{
+  "name": "foobar",
+  "version": "1.0.0",
+  "description": "A test package for tooman",
+  "type": "module",
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
